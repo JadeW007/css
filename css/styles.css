@@ -1,0 +1,187 @@
+body{ color:#40514E;
+    margin:0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    
+}
+h1 {
+    margin: 50px auto 0 auto ;
+    font-family:  'Sacramento', cursive;
+    font-size: 5.625rem;
+    color: #66BFBF;
+    
+
+}
+
+
+h2 {font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    padding:10px;
+
+
+}
+
+
+h3{font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+    
+
+
+}
+
+
+hr{ border-style: none;
+    border-top-style: dotted;
+    border-width: 3px;
+    width: 40px;
+    margin: 100px auto;
+
+
+
+}
+
+p{
+    line-height: 2;
+}
+
+.top-container { background-color:#E4F9F5 ;
+    position: relative;
+    padding-top :100px; 
+    
+    
+    
+   
+   
+
+}
+.middle-container { margin:100px 0;
+
+}
+    .pic {width :100px;
+        padding: 10px;
+
+    }
+
+
+
+    
+
+.bottom-container {
+    background-color:#66BFBF ; 
+    color:#11999E;
+   padding-bottom:20px;
+
+}
+
+    
+
+
+
+.myself{ width:30%;
+    margin: auto;
+     
+
+
+
+}
+    
+.yoga {width: 80px;
+    float: left;
+    margin-right:30px ;
+
+} 
+    
+.snow{float: right;
+    margin-left: 30px;
+
+
+}
+
+
+
+
+
+
+
+
+.top {position: relative;
+    top :5px ;
+    left:200px;
+
+    
+}
+
+
+
+.bottom{
+    
+    position: absolute;
+    left: 500px;
+    bottom: 400px;
+    
+    
+
+}
+.skill-row { width: 50%;
+    margin:100px auto 100px auto ;
+    text-align: left;
+    
+
+}
+
+
+
+.contact-message{ width: 40%;
+    margin:4px auto 6px
+
+}
+a{ color:#11999E;
+    font-family: 'Montserrat', sans-serif;
+    margin: 20px 20px;
+    text-decoration: none;
+
+
+}
+a:hover{color:#EAF6F6
+
+}
+.end-line{color:#EAF6F6;
+    font-size: 0.7rem;
+    padding:40px 0;
+
+}
+
+
+
+
+
+  
+.btn {
+    font-size:20px;
+    font-family: 'Merriweather', serif;
+    line-height: 4;
+    width:103px;
+    height:47px;
+    border-width:2px;
+    color:#fff;
+    border-color:#4e6096;
+    border-top-left-radius:17px;
+    border-top-right-radius:17px;
+    border-bottom-left-radius:17px;
+    border-bottom-right-radius:17px;
+    box-shadow: 0px 0px 0px 2px #9fb4f2;
+    text-shadow: 0px 1px 0px #283966;
+    background:linear-gradient(rgb(120, 146, 194), #476e9e);
+  }
+  
+  .btn:hover {
+    background: linear-gradient(#476e9e, rgb(120, 146, 194));
+  }
+                
+                
+
+
+
+
+
